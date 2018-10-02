@@ -13,4 +13,4 @@ https://getnikola.com/getting-started.html
 ## Test of release functionality (don't use)
 The release file may be found here [file.pdf](../../releases/download/v0.1.0/A-Test-Release.zip)
 
-Download A-Test-Release.zip from [the latest release](releases/latest).
+Download A-Test-Release.zip from [the latest release](../../releases/latest).
