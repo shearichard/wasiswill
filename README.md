@@ -9,3 +9,6 @@ Content may be seen at https://shearichard.github.io/wasiswill/ .
 
 ## Nikola Doco
 https://getnikola.com/getting-started.html
+
+## Test of release functionality (don't use)
+The release file may be found here [file.pdf](Documentation/file.pdf)
