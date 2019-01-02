@@ -6,3 +6,8 @@ Initially using github pages for hosting with a view to using the [Nikola](https
 
 ## Access
 Content may be seen at https://shearichard.github.io/wasiswill/ .
+
+## Nikola Doco
+https://getnikola.com/getting-started.html
+
+
